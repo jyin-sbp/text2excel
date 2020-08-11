@@ -4,7 +4,7 @@ version: 0.3
 Andrew P. Hodges, Ph.D., Jun Yin, Ph.D.
 Copyright, Sanford Burnham Prebys Medical Discovery Institute
 
-Description: Perl script to generate compile xlsx file from individual text files. The script will prevent automatic format changes in Excel for gene names, special texts, and combine different text files in to Excel tabs.\n
+Description: Perl script to generate compile xlsx file from individual text files. The script will prevent automatic format changes in Excel for gene names, special texts, and combine different text files in to Excel tabs.
 
 Usage: 
 
@@ -35,5 +35,5 @@ Parameters:
                       theme2, by JY, adding wrap text, filter etc. Now default option. [theme2]
                       theme0, don't change format
 
-	--delim|-d        default is tab-delimited; use '' for other entries [\\t]
-	--verbose|-v      Verbose\n	
+	--delim|-d        default is tab-delimited; use '' for other entries [\t]
+	--verbose|-v      Verbose	
